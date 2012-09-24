@@ -1,2 +1,2 @@
-This is a intel challenge project.
+This is a intel challenge project!
  
