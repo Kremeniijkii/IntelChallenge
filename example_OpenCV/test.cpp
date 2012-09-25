@@ -1,8 +1,3 @@
-//
-// for testing
-//
-// robocraft.ru
-//
 
 #include <cv.h>
 #include <highgui.h>
